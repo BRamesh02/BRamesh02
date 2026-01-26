@@ -1,16 +1,22 @@
-## Hi there 👋
+# [Brian RAMESH]
 
-<!--
-**BRamesh02/BRamesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio 
 
-Here are some ideas to get you started:
+ - Bachelor degree in Mathematics and Economics at Paris-Saclay University
+ - I am currently preparing the engineering degree at [ENSAE](https://www.ensae.fr/en) Paris (Engineering degree) in parallel with the Master 2 [SFA](https://www.master-statistique-finance.com/IP_Paris/) at Polytechnic Institute of Paris.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  Some interesting projects
+
+ - [**Modality aware transformer**](https://github.com/BRamesh02/Modality-aware-transformer) : A comparative study of Modality-Aware Transformers vs. Canonical architectures for multi-modal financial time series forecasting on the S&P 500 (Implementation of the paper Modality-aware Transformer for Financial Time series Forecasting by Emami and al. (2023))
+ - [**Non Gaussian State Space Models**](https://github.com/BRamesh02/Non-Gaussian-State-Space-Models) : Implementation and comparison of filtering methods for a non‑Gaussian SSM (Creal, 2012): exact filtering, bootstrap particle filtering, and MCMC inference (RWMH, PMMH), with likelihood profiles and mixing diagnostics.
+ 
+### Private Work 
+
+* GAN Models for financial synthetic data: Work conducted with HSBC to study the potential of generated time series using GAN-models
+* Multi-objective portfolio optimization: ongoing work with RiskDesign
+
+## Links
+
+ - Email : [brian.ramesh@ensae.fr](brian.ramesh@ensae.fr)
+ - LinkedIn : [Brian Ramesh](www.linkedin.com/in/brian-ramesh-853670240)
