@@ -3,7 +3,7 @@
 ## Bio 
 
  - Bachelor degree in Mathematics and Economics at Paris-Saclay University
- - I am currently preparing the engineering degree at [ENSAE](https://www.ensae.fr/en) Paris (Engineering degree) in parallel with the Master 2 [SFA](https://www.master-statistique-finance.com/IP_Paris/) at Polytechnic Institute of Paris.
+- I am currently pursuing an engineering degree at [ENSAE](https://www.ensae.fr/en) Paris, alongside the Master’s degree in [Statistics and Finance (SFA)](https://www.master-statistique-finance.com/IP_Paris/) at the Institut Polytechnique de Paris.
 
 
 ##  Some interesting projects
