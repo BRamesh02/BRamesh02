@@ -1,4 +1,4 @@
-# [Brian RAMESH]
+# Brian RAMESH
 
 ## Bio 
 
