@@ -18,5 +18,5 @@
 
 ## Links
 
- - Email : [brian.ramesh@ensae.fr](brian.ramesh@ensae.fr)
- - LinkedIn : [Brian Ramesh](www.linkedin.com/in/brian-ramesh-853670240)
+- Email : [brian.ramesh@ensae.fr](mailto:brian.ramesh@ensae.fr)
+- LinkedIn : [Brian Ramesh](https://www.linkedin.com/in/brian-ramesh-853670240)
