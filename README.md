@@ -2,7 +2,7 @@
 
 ## Bio 
 
- - Double Bachelor degree in Mathematics and Economics at Paris-Saclay University
+ - Double Bachelor degree in Mathematics and Economics at [Paris-Saclay University](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/economie-mathematiques)
 - I am currently pursuing an engineering degree at [ENSAE](https://www.ensae.fr/en) Paris, alongside the Master’s degree in [Statistics and Finance (SFA)](https://www.master-statistique-finance.com/IP_Paris/) at the Institut Polytechnique de Paris.
 
 
