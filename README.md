@@ -14,7 +14,7 @@
 ### Private Work 
 
 * GAN Models for financial synthetic data: work conducted with HSBC to study the potential of GAN-models to generate time series
-* Multi-objective portfolio optimization: ongoing work with RiskDesign
+* Multi-objective portfolio optimization work with RiskDesign
 
 ## Links
 
